@@ -13,11 +13,6 @@ sites:
     headers:
       - "CF-Access-Client-Id: $CF_ACCESS_CLIENT_ID"
       - "CF-Access-Client-Secret: $CF_ACCESS_CLIENT_SECRET"
-  - name: Longhorn
-    url: https://longhorn.chik4ge.me
-    headers:
-      - "CF-Access-Client-Id: $CF_ACCESS_CLIENT_ID"
-      - "CF-Access-Client-Secret: $CF_ACCESS_CLIENT_SECRET"
   - name: Grafana
     url: https://grafana.chik4ge.me
     headers:

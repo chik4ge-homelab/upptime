@@ -1,7 +1,7 @@
 url: https://grafana.chik4ge.me
-status: down
-code: 500
-responseTime: 1319
-lastUpdated: 2025-02-01T13:32:03.373Z
+status: up
+code: 200
+responseTime: 5578
+lastUpdated: 2025-02-01T13:43:54.982Z
 startTime: 2025-01-08T13:47:07.245Z
 generator: Upptime <https://github.com/upptime/upptime>

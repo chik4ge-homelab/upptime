@@ -1,7 +1,7 @@
 url: https://proxmox.chik4ge.me
-status: down
-code: 502
-responseTime: 10462
-lastUpdated: 2025-07-07T03:03:48.131Z
+status: up
+code: 200
+responseTime: 583
+lastUpdated: 2025-07-07T04:29:54.521Z
 startTime: 2025-01-04T08:59:51.214Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://argocd.chik4ge.me
-status: down
-code: 502
-responseTime: 607
-lastUpdated: 2025-07-17T19:46:45.217Z
+status: up
+code: 200
+responseTime: 711
+lastUpdated: 2025-07-17T19:51:55.571Z
 startTime: 2025-01-01T16:57:51.700Z
 generator: Upptime <https://github.com/upptime/upptime>

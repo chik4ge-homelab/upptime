@@ -1,7 +1,7 @@
 url: $CUBE_MINIATURIA_MAP_URL
-status: down
-code: 502
-responseTime: 149
-lastUpdated: 2025-08-31T23:09:41.864Z
+status: up
+code: 200
+responseTime: 145
+lastUpdated: 2025-09-01T13:35:41.021Z
 startTime: 2025-01-01T16:57:56.880Z
 generator: Upptime <https://github.com/upptime/upptime>
